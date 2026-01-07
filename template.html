@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Список пользователей</title>
+</head>
+<body>
+    <h1>Пользователи</h1>
+    <ul>
+        {% for user in users %}
+        <li>
+            Имя: {{ user.name }}, Email: {{ user.email }}
+        </li>
+        {% else %}
+        <li>Список пользователей пуст.</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
