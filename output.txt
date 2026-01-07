@@ -1,0 +1,25 @@
+(.venv) egorpc@belousove-dt2u-white:~/python$  cd /home/egorpc/python ; /usr/bin/env /home/egorpc/python/.venv/bin/python /home/egorpc/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56019 -- /home/egorpc/python/dz27ex4/dz27ex4.py 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Список пользователей</title>
+</head>
+<body>
+    <h1>Пользователи</h1>
+    <ul>
+        
+        <li>
+            Имя: Иван Петров, Email: ivan.petrov@example.com
+        </li>
+        
+        <li>
+            Имя: Мария Сидорова, Email: maria.sidorova@example.com
+        </li>
+        
+        <li>
+            Имя: Алексей Иванов, Email: alexey.ivanov@example.com
+        </li>
+        
+    </ul>
+</body>
+</html>
